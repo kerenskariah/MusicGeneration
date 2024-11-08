@@ -83,3 +83,8 @@ The model is trained using the following setup:
   - `step` and `duration`: Mean squared error with positive pressure on negative step values
 - Optimizer: Adam
 - Callbacks: Model checkpoint and early stopping
+
+## Acknowledgments
+
+This project was created with support from the AISC (AI Student Collective) initiative.
+```
